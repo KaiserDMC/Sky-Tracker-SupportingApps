@@ -1,0 +1,542 @@
+[
+  {
+    "guid": "c9b94b97-3557-4e96-a120-e73cfb38028e",
+    "designation1": "01",
+    "designation2": "19"
+  },
+  {
+    "guid": "71f11ad3-2913-47f7-baa9-9269198067c8",
+    "designation1": "02",
+    "designation2": "20"
+  },
+  {
+    "guid": "7d073303-721c-4aaf-8d01-4092a0b14955",
+    "designation1": "03",
+    "designation2": "21"
+  },
+  {
+    "guid": "2892e88c-65c3-42d1-931c-9924b625351d",
+    "designation1": "04",
+    "designation2": "22"
+  },
+  {
+    "guid": "a431ffb8-ef89-4082-aed5-8016744549c7",
+    "designation1": "05",
+    "designation2": "23"
+  },
+  {
+    "guid": "c08af26c-61a1-442c-ae28-352f5af308b2",
+    "designation1": "06",
+    "designation2": "24"
+  },
+  {
+    "guid": "0f563bfe-83f7-45fa-a42b-5388beb8d3f2",
+    "designation1": "07",
+    "designation2": "25"
+  },
+  {
+    "guid": "8b779bbf-2ae3-48f7-aad8-10aa25c90c09",
+    "designation1": "08",
+    "designation2": "26"
+  },
+  {
+    "guid": "520a5f6c-3ccb-4f87-bc6d-8db1b8a67328",
+    "designation1": "09",
+    "designation2": "27"
+  },
+  {
+    "guid": "e70dc49f-d65a-4ef8-81b2-32bf022675ff",
+    "designation1": "10",
+    "designation2": "28"
+  },
+  {
+    "guid": "39a34e6b-e773-4641-a8a7-fbe7636a2da8",
+    "designation1": "11",
+    "designation2": "29"
+  },
+  {
+    "guid": "021ac58f-62fa-446d-9a2e-e4542f4ed21a",
+    "designation1": "12",
+    "designation2": "30"
+  },
+  {
+    "guid": "3ba88bc5-2afe-4df3-8e37-405999907989",
+    "designation1": "13",
+    "designation2": "31"
+  },
+  {
+    "guid": "841d9266-c720-4251-94ff-408592a29f78",
+    "designation1": "14",
+    "designation2": "32"
+  },
+  {
+    "guid": "87882171-681f-4b97-a097-b1cf0dd0ae90",
+    "designation1": "15",
+    "designation2": "33"
+  },
+  {
+    "guid": "96e14488-7f92-4ddc-aaa0-3647b5489549",
+    "designation1": "16",
+    "designation2": "34"
+  },
+  {
+    "guid": "b677584a-5e44-477b-bb70-0bb870cefadb",
+    "designation1": "17",
+    "designation2": "35"
+  },
+  {
+    "guid": "485ead20-d988-4a99-a1d8-f82832fe6f93",
+    "designation1": "18",
+    "designation2": "36"
+  },
+  {
+    "guid": "6d7bf89e-5b44-407a-ad10-97f2d712714e",
+    "designation1": "19",
+    "designation2": "01"
+  },
+  {
+    "guid": "1c109698-1bb7-4deb-bbd2-8b79b157ed28",
+    "designation1": "20",
+    "designation2": "02"
+  },
+  {
+    "guid": "b69bd434-8e3b-4a96-9df2-c3c5c92e65d1",
+    "designation1": "21",
+    "designation2": "03"
+  },
+  {
+    "guid": "ba6d112c-fba4-451b-987f-3cab81e39819",
+    "designation1": "22",
+    "designation2": "04"
+  },
+  {
+    "guid": "1e0d8a99-473f-48ad-85a4-8101ff2a3c01",
+    "designation1": "23",
+    "designation2": "05"
+  },
+  {
+    "guid": "5af853f3-4f5b-4789-b199-9b296014cad5",
+    "designation1": "24",
+    "designation2": "06"
+  },
+  {
+    "guid": "acb9f76c-08a7-4b87-9aea-613c1dc6f36d",
+    "designation1": "25",
+    "designation2": "07"
+  },
+  {
+    "guid": "ab73a0a9-f213-4286-8b06-025411e100ca",
+    "designation1": "26",
+    "designation2": "08"
+  },
+  {
+    "guid": "16ae0d33-357d-4edd-badc-6376aab4e6c5",
+    "designation1": "27",
+    "designation2": "09"
+  },
+  {
+    "guid": "1eb9325f-c910-4b5e-b9c9-45a6f025ef41",
+    "designation1": "28",
+    "designation2": "10"
+  },
+  {
+    "guid": "336ae19c-d257-4556-81a6-9acf9e46d646",
+    "designation1": "29",
+    "designation2": "11"
+  },
+  {
+    "guid": "4803113f-a1f9-4399-9642-a219214e6722",
+    "designation1": "30",
+    "designation2": "12"
+  },
+  {
+    "guid": "6f61e653-6465-4746-964d-9c91cb70c3c5",
+    "designation1": "31",
+    "designation2": "13"
+  },
+  {
+    "guid": "5139b850-7d54-44ab-9a25-f7f5801f1a80",
+    "designation1": "32",
+    "designation2": "14"
+  },
+  {
+    "guid": "ee9c1a04-bb14-4c1a-a819-79a0fb3fb7b3",
+    "designation1": "33",
+    "designation2": "15"
+  },
+  {
+    "guid": "b1c960bd-8c42-42de-b1b7-117c18a1ea6c",
+    "designation1": "34",
+    "designation2": "16"
+  },
+  {
+    "guid": "75880fb8-4e2d-4d15-bf03-35f8389e8509",
+    "designation1": "35",
+    "designation2": "17"
+  },
+  {
+    "guid": "b1e7c338-a042-4fe2-b301-374c01586344",
+    "designation1": "36",
+    "designation2": "18"
+  },
+  {
+    "guid": "f6f15d06-ecfa-4210-8895-b18b61f7dee1",
+    "designation1": "01R",
+    "designation2": "19L"
+  },
+  {
+    "guid": "650cb98b-c4d9-49f8-8f60-df342b350c40",
+    "designation1": "02R",
+    "designation2": "20L"
+  },
+  {
+    "guid": "6cdd11ee-d09a-4559-a1bd-35d3e906a986",
+    "designation1": "03R",
+    "designation2": "21L"
+  },
+  {
+    "guid": "67a44845-f512-4110-88a6-77681feccde3",
+    "designation1": "04R",
+    "designation2": "22L"
+  },
+  {
+    "guid": "9f97c72e-36f6-4aac-8da9-c327db8bbed4",
+    "designation1": "05R",
+    "designation2": "23L"
+  },
+  {
+    "guid": "72cf54c0-c07f-49fe-96e1-e94eff56f8de",
+    "designation1": "06R",
+    "designation2": "24L"
+  },
+  {
+    "guid": "d709b7b1-bc57-4fab-9fa3-b9f3e4e1d501",
+    "designation1": "07R",
+    "designation2": "25L"
+  },
+  {
+    "guid": "05f939f1-8dcf-46f5-80ef-25b7dd2bffd1",
+    "designation1": "08R",
+    "designation2": "26L"
+  },
+  {
+    "guid": "b5be0770-75d3-4d8d-aa1e-87c393ebdc30",
+    "designation1": "09R",
+    "designation2": "27L"
+  },
+  {
+    "guid": "3bc5c8a3-dd19-402f-8289-4a175e719d11",
+    "designation1": "10R",
+    "designation2": "28L"
+  },
+  {
+    "guid": "b6d30f6b-bee0-49ad-be25-102631053e23",
+    "designation1": "11R",
+    "designation2": "29L"
+  },
+  {
+    "guid": "50507a2e-1e98-4ff9-8cd9-3074a3e734f2",
+    "designation1": "12R",
+    "designation2": "30L"
+  },
+  {
+    "guid": "b3395744-6efe-4398-91e1-aa1e39679206",
+    "designation1": "13R",
+    "designation2": "31L"
+  },
+  {
+    "guid": "415e2ecf-45ad-407c-b729-02f1c07795ba",
+    "designation1": "14R",
+    "designation2": "32L"
+  },
+  {
+    "guid": "7e482463-4446-4500-91f1-d8faeab84e8b",
+    "designation1": "15R",
+    "designation2": "33L"
+  },
+  {
+    "guid": "646a221d-d2ae-4792-a6fe-3cdf450c4884",
+    "designation1": "16R",
+    "designation2": "34L"
+  },
+  {
+    "guid": "bad794a6-80b1-4c0a-a291-a28d86afe05c",
+    "designation1": "17R",
+    "designation2": "35L"
+  },
+  {
+    "guid": "a0b76f56-9d3e-48d9-b28d-5e4b9211a7b8",
+    "designation1": "18R",
+    "designation2": "36L"
+  },
+  {
+    "guid": "a14cee76-4079-4b7e-933e-7359e1b1c5fb",
+    "designation1": "19R",
+    "designation2": "01L"
+  },
+  {
+    "guid": "cac16708-e367-49e1-962d-fb3e2e646f1c",
+    "designation1": "20R",
+    "designation2": "02L"
+  },
+  {
+    "guid": "36b85ffa-0041-4c30-b69b-d78accb3406c",
+    "designation1": "21R",
+    "designation2": "03L"
+  },
+  {
+    "guid": "5e853051-3320-47a4-82e7-91a14c24976b",
+    "designation1": "22R",
+    "designation2": "04L"
+  },
+  {
+    "guid": "a9f1b160-3149-41b7-adcf-55104713de8e",
+    "designation1": "23R",
+    "designation2": "05L"
+  },
+  {
+    "guid": "1746e11d-6151-4dda-9320-dddf30071f0a",
+    "designation1": "24R",
+    "designation2": "06L"
+  },
+  {
+    "guid": "4e2d02b7-a0f6-4fb2-bd51-c1c233c71d9c",
+    "designation1": "25R",
+    "designation2": "07L"
+  },
+  {
+    "guid": "9e03f239-37c8-44fc-ab24-09efc4d90f1a",
+    "designation1": "26R",
+    "designation2": "08L"
+  },
+  {
+    "guid": "a19e3a32-d920-47cf-ac2a-a7a53f3d609d",
+    "designation1": "27R",
+    "designation2": "09L"
+  },
+  {
+    "guid": "a6b0314a-f42a-486c-b7a4-bcb5fa3c9c9c",
+    "designation1": "28R",
+    "designation2": "10L"
+  },
+  {
+    "guid": "fcd3e21b-26f5-4ac7-90a0-72da5ffc2548",
+    "designation1": "29R",
+    "designation2": "11L"
+  },
+  {
+    "guid": "e42e312a-dd4f-4626-b3e1-e118e2103a65",
+    "designation1": "30R",
+    "designation2": "12L"
+  },
+  {
+    "guid": "11aae189-d381-4aa7-99d3-b7f9add5dff8",
+    "designation1": "31R",
+    "designation2": "13L"
+  },
+  {
+    "guid": "0b239814-c4d5-434a-a38a-9ff69c77783c",
+    "designation1": "32R",
+    "designation2": "14L"
+  },
+  {
+    "guid": "ceda2fd6-a145-4bf7-b92a-55dd12bdf31f",
+    "designation1": "33R",
+    "designation2": "15L"
+  },
+  {
+    "guid": "6534deea-ee36-4f47-91b5-e508e5224198",
+    "designation1": "34R",
+    "designation2": "16L"
+  },
+  {
+    "guid": "c52cb5ea-4394-4979-a299-d3b016917702",
+    "designation1": "35R",
+    "designation2": "17L"
+  },
+  {
+    "guid": "c4cc1b70-3466-4a38-87a3-240d08dab179",
+    "designation1": "36R",
+    "designation2": "18L"
+  },
+  {
+    "guid": "b14296f2-d62b-446e-bedb-85086ff5f543",
+    "designation1": "01L",
+    "designation2": "19R"
+  },
+  {
+    "guid": "052c25c7-b13e-4fd3-9490-f7a0615bf8d8",
+    "designation1": "02L",
+    "designation2": "20R"
+  },
+  {
+    "guid": "867d972c-f5a0-4e8f-878a-eb02ad5faa03",
+    "designation1": "03L",
+    "designation2": "21R"
+  },
+  {
+    "guid": "df4ae148-5da0-499e-87b2-517d384f7b26",
+    "designation1": "04L",
+    "designation2": "22R"
+  },
+  {
+    "guid": "719db005-f570-4d68-a14b-35062fe73d6b",
+    "designation1": "05L",
+    "designation2": "23R"
+  },
+  {
+    "guid": "441878a5-ceb1-43b6-9f77-78316fbc8974",
+    "designation1": "06L",
+    "designation2": "24R"
+  },
+  {
+    "guid": "56dceaa3-9311-4174-86a0-d1c44957a8c3",
+    "designation1": "07L",
+    "designation2": "25R"
+  },
+  {
+    "guid": "866d00d7-f262-4f0c-8458-853cee4c27ac",
+    "designation1": "08L",
+    "designation2": "26R"
+  },
+  {
+    "guid": "a7192acc-80c3-4f28-8ee0-1cca7868e50a",
+    "designation1": "09L",
+    "designation2": "27R"
+  },
+  {
+    "guid": "36d8c53c-ae77-4fb1-8a3f-fe471b1a394e",
+    "designation1": "10L",
+    "designation2": "28R"
+  },
+  {
+    "guid": "5541991d-03ee-4662-8b61-7f0b020d85a0",
+    "designation1": "11L",
+    "designation2": "29R"
+  },
+  {
+    "guid": "c87a5218-c685-4946-b968-7b4053798e8a",
+    "designation1": "12L",
+    "designation2": "30R"
+  },
+  {
+    "guid": "9c301039-eec0-436b-981f-0f4df258d443",
+    "designation1": "13L",
+    "designation2": "31R"
+  },
+  {
+    "guid": "ccb61af1-1fb5-4021-b6d8-0c1161988c73",
+    "designation1": "14L",
+    "designation2": "32R"
+  },
+  {
+    "guid": "9b8f035f-ef02-4076-8e28-67a0f0607559",
+    "designation1": "15L",
+    "designation2": "33R"
+  },
+  {
+    "guid": "8001bb02-19a4-4150-8f28-be0f66161fbc",
+    "designation1": "16L",
+    "designation2": "34R"
+  },
+  {
+    "guid": "dcc80361-8dbc-4dde-9867-be36edafaff6",
+    "designation1": "17L",
+    "designation2": "35R"
+  },
+  {
+    "guid": "c92a0137-41ad-4593-9f7e-b9d1a48b9686",
+    "designation1": "18L",
+    "designation2": "36R"
+  },
+  {
+    "guid": "ba6a422f-1e82-4a67-ad26-625b63b7d6de",
+    "designation1": "19L",
+    "designation2": "01R"
+  },
+  {
+    "guid": "53be5e89-e170-41a2-9fe2-82541a8f73e1",
+    "designation1": "20L",
+    "designation2": "02R"
+  },
+  {
+    "guid": "ef9f89d9-c007-4da8-9fd7-2954f6d9d422",
+    "designation1": "21L",
+    "designation2": "03R"
+  },
+  {
+    "guid": "953a6a5c-1489-429a-a40a-3030d2fb2cb2",
+    "designation1": "22L",
+    "designation2": "04R"
+  },
+  {
+    "guid": "15338932-783d-4bc1-b104-cf1e4f19a6df",
+    "designation1": "23L",
+    "designation2": "05R"
+  },
+  {
+    "guid": "8755799b-2e8a-473e-8ad4-dc2a0b179c3d",
+    "designation1": "24L",
+    "designation2": "06R"
+  },
+  {
+    "guid": "364419b3-6cd5-436b-9c54-d54ed397b288",
+    "designation1": "25L",
+    "designation2": "07R"
+  },
+  {
+    "guid": "f52aece9-973e-4645-80ca-d8f278d97317",
+    "designation1": "26L",
+    "designation2": "08R"
+  },
+  {
+    "guid": "2d9f61ab-035c-4d84-84e6-df357122b367",
+    "designation1": "27L",
+    "designation2": "09R"
+  },
+  {
+    "guid": "892d5050-3852-4faf-880e-3f91234f09e8",
+    "designation1": "28L",
+    "designation2": "10R"
+  },
+  {
+    "guid": "f1a7b324-5167-4df4-a1a5-6f92352ac240",
+    "designation1": "29L",
+    "designation2": "11R"
+  },
+  {
+    "guid": "ec50ad10-3681-4700-981f-77a30b74b34b",
+    "designation1": "30L",
+    "designation2": "12R"
+  },
+  {
+    "guid": "28b18c65-8014-4460-80c7-2f6cbc2c5caf",
+    "designation1": "31L",
+    "designation2": "13R"
+  },
+  {
+    "guid": "758be3c6-2257-44db-b542-8201fb46baee",
+    "designation1": "32L",
+    "designation2": "14R"
+  },
+  {
+    "guid": "b1d97804-febb-4a6a-9e9d-857b597dff0a",
+    "designation1": "33L",
+    "designation2": "15R"
+  },
+  {
+    "guid": "63546bc4-4be2-4ccb-a906-5de9f4291082",
+    "designation1": "34L",
+    "designation2": "16R"
+  },
+  {
+    "guid": "b98fe993-0c52-480b-b4d3-b431148f51ff",
+    "designation1": "35L",
+    "designation2": "17R"
+  },
+  {
+    "guid": "7dea3b46-267f-485f-849f-486727da8b7e",
+    "designation1": "36L",
+    "designation2": "18R"
+  }
+]
